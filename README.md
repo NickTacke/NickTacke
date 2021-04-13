@@ -13,8 +13,6 @@
 <br />
 <img align="left" alt="Arceas | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/gmail.svg" />the.nick.tacke@gmail.com
 
-<br />
-
 ### Languages:
 - C++ / C
 - Javascript (Nodejs)
