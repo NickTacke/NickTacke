@@ -18,7 +18,7 @@
 - <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_16x16.png">Javascript (Nodejs)
 - <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php_16x16.png">PHP
 - <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp_16x16.png">C#
-- <img width="16px" height="16px" src="https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg">Vue.js
+- <img width="16px" height="16px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">Vue.js
 - <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/lua/lua_16x16.png">Lua
 - <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python_16x16.png">Python
 
