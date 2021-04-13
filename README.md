@@ -10,7 +10,8 @@
 
 <img align="left" alt="Arceas | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/discord.svg" />Discord: Arceas#1231 (527236638041047050)
 <br />
-<img align="left" alt="Arceas | Discord" style="padding-top: 10px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/gmail.svg" />the.nick.tacke@gmail.com
+<br />
+<img align="left" alt="Arceas | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/gmail.svg" />the.nick.tacke@gmail.com
 
 <br />
 
