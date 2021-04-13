@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there, I'm Nick 👋
 
-<!--
-**NickTacke/NickTacke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a full time Student and I code in my free time!
+- 🔭 I’m currently working on a 6502 CPU emulator
+- 🌱 I’m currently learning how CPU's work/CPU emulation
+- 👯 I’m looking to collaborate on big fun projects
+- 🤔 I’m looking for help with tidying up my code
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Arceas | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/discord.svg" />]Discord: Arceas#1231 (527236638041047050)
+[<img align="left" alt="Arceas | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/gmail.svg" />]the.nick.tacke@gmail.com
+
+<br />
+
+### Languages:
+- C++ / C
+- Javascript (Nodejs)
+- PHP
+- C#
+- Vue.js
+- Lua
+- Python
+
+### Tools:
+- Arduino IDE
+- Atom
+
+- Visual Studio
+- Visual Studio Code
