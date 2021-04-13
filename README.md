@@ -11,10 +11,10 @@
 <img align="left" alt="Arceas | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/discord.svg" />Discord: Arceas#1231 (527236638041047050)
 <br />
 <br />
-<img align="left" alt="Arceas | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/gmail.svg" />the.nick.tacke@gmail.com
+<img align="left" alt="Arceas | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/gmail.svg" />the.nick.tacke@gmail.com
 
 ### Languages:
-- C++ / C
+- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp_64x64.png">C++ / C
 - Javascript (Nodejs)
 - PHP
 - C#
