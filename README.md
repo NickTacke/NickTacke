@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Linux kernel module
 - 🌱 I’m currently learning how to write professional C++ code
 - 👯 I’m looking to collaborate on projects written in C++
-- 🤔 I’m looking for help project structure
+- 🤔 I’m looking for help with project structure
 
 ### Connect with me:
 
