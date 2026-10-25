@@ -1,13 +1,3 @@
-<div align="center">
-
-# Nick Tacke
-
-Software engineer · TypeScript & backend systems · Netherlands 🇳🇱
-
-<a href="https://brawltome.app"><img src="assets/brawltome-logo.png" alt="" height="28" align="absmiddle"> brawltome.app</a>
-
-</div>
-
 ## 👋 About
 
 I build backend-heavy systems: typed API clients, data pipelines, and services that keep running when nobody's watching.
@@ -44,7 +34,7 @@ I also like taking undocumented things apart, like game replay formats, bytecode
   </tr>
 </table>
 
-## 📊 BrawlTome
+## <img src="assets/brawltome-logo.png" alt="" height="32" align="absmiddle"> BrawlTome
 
 A stats site for Brawlhalla, live at [brawltome.app](https://brawltome.app), tracking over **800,000 players** and serving close to **a million requests a month**.
 
