@@ -8,8 +8,8 @@ I also like taking undocumented things apart, like game replay formats, bytecode
 <p>
   <img src="https://img.shields.io/badge/npm%20downloads-809%2Fmonth-CB3837?logo=npm&logoColor=white" alt="809 npm downloads a month">
   <img src="https://img.shields.io/badge/stars-32-e3b341?logo=github&logoColor=white" alt="32 stars">
-  <img src="https://img.shields.io/badge/commits-1.8k-2ea043?logo=git&logoColor=white" alt="1792 commits">
-  <img src="https://img.shields.io/badge/pull%20requests-259-8957e5?logo=github&logoColor=white" alt="259 pull requests">
+  <img src="https://img.shields.io/badge/commits-1.8k-2ea043?logo=git&logoColor=white" alt="1798 commits">
+  <img src="https://img.shields.io/badge/pull%20requests-265-8957e5?logo=github&logoColor=white" alt="265 pull requests">
 </p>
 <!-- stats:end -->
 
@@ -61,9 +61,9 @@ Search any player or clan to see their ranked history, or watch who's queueing r
 ## 🕒 Recent activity
 
 <!-- activity:start -->
-- [lightspeed-search#132](https://github.com/NickTacke/lightspeed-search/pull/132) docs: product intro, status and MIT license for going public <sub>25 Oct</sub>
-- [brawltome#361](https://github.com/NickTacke/brawltome/pull/361) fix(infra): give next/image a writable cache so the header logo stops hanging <sub>18 Oct</sub>
-- [brawltome#358](https://github.com/NickTacke/brawltome/pull/358) ci: probe the public site from outside every five minutes <sub>8 Oct</sub>
-- [brawltome#357](https://github.com/NickTacke/brawltome/pull/357) fix(observability): don't page when a deep crawl waits out a Brawlhalla outage <sub>8 Oct</sub>
-- [brawltome#355](https://github.com/NickTacke/brawltome/pull/355) feat(ranked): show solo queue and fixed teams first seen by the deep crawl <sub>8 Oct</sub>
+- [brawltome#371](https://github.com/NickTacke/brawltome/pull/371) fix(observability): give the alert relay the observability network as its primary <sub>31 Oct</sub>
+- [brawltome#370](https://github.com/NickTacke/brawltome/pull/370) fix(observability): render the pre-deploy check from the compose's own directory <sub>31 Oct</sub>
+- [brawltome#368](https://github.com/NickTacke/brawltome/pull/368) feat(observability): page only for critical alerts and keep a Discord status board <sub>31 Oct</sub>
+- [brawltome#369](https://github.com/NickTacke/brawltome/pull/369) chore(migrations): remove one-off V2 import CLIs and dead legacy importers <sub>31 Oct</sub>
+- [brawltome#367](https://github.com/NickTacke/brawltome/pull/367) chore: add contributor guide and roadmap, remove the failing uptime workflow <sub>31 Oct</sub>
 <!-- activity:end -->
