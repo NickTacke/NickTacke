@@ -6,9 +6,9 @@ I also like taking undocumented things apart, like game replay formats, bytecode
 
 <!-- stats:start -->
 <p>
-  <img src="https://img.shields.io/badge/npm%20downloads-809%2Fmonth-CB3837?logo=npm&logoColor=white" alt="809 npm downloads a month">
+  <img src="https://img.shields.io/badge/npm%20downloads-742%2Fmonth-CB3837?logo=npm&logoColor=white" alt="742 npm downloads a month">
   <img src="https://img.shields.io/badge/stars-32-e3b341?logo=github&logoColor=white" alt="32 stars">
-  <img src="https://img.shields.io/badge/commits-1.8k-2ea043?logo=git&logoColor=white" alt="1787 commits">
+  <img src="https://img.shields.io/badge/commits-1.8k-2ea043?logo=git&logoColor=white" alt="1788 commits">
   <img src="https://img.shields.io/badge/pull%20requests-267-8957e5?logo=github&logoColor=white" alt="267 pull requests">
 </p>
 <!-- stats:end -->
@@ -61,9 +61,9 @@ Search any player or clan to see their ranked history, or watch who's queueing r
 ## 🕒 Recent activity
 
 <!-- activity:start -->
+- [brawltome#373](https://github.com/NickTacke/brawltome/pull/373) feat(discovery): match players from any word of their name, ignoring accents <sub>2 Nov</sub>
 - [brawltome#359](https://github.com/NickTacke/brawltome/pull/359) feat(infra): smoke-test each deploy and roll back to the previous images on failure <sub>1 Nov</sub>
 - [brawltome#360](https://github.com/NickTacke/brawltome/pull/360) feat: push player refresh completion to the profile page <sub>1 Nov</sub>
 - [brawltome#372](https://github.com/NickTacke/brawltome/pull/372) docs: move the repo guide into CONTRIBUTING.md <sub>1 Nov</sub>
 - [brawltome#371](https://github.com/NickTacke/brawltome/pull/371) fix(observability): give the alert relay the observability network as its primary <sub>31 Oct</sub>
-- [brawltome#370](https://github.com/NickTacke/brawltome/pull/370) fix(observability): render the pre-deploy check from the compose's own directory <sub>31 Oct</sub>
 <!-- activity:end -->
