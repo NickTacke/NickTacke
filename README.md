@@ -6,10 +6,10 @@ I also like taking undocumented things apart, like game replay formats, bytecode
 
 <!-- stats:start -->
 <p>
-  <img src="https://img.shields.io/badge/npm%20downloads-749%2Fmonth-CB3837?logo=npm&logoColor=white" alt="749 npm downloads a month">
+  <img src="https://img.shields.io/badge/npm%20downloads-688%2Fmonth-CB3837?logo=npm&logoColor=white" alt="688 npm downloads a month">
   <img src="https://img.shields.io/badge/stars-32-e3b341?logo=github&logoColor=white" alt="32 stars">
-  <img src="https://img.shields.io/badge/commits-1.8k-2ea043?logo=git&logoColor=white" alt="1793 commits">
-  <img src="https://img.shields.io/badge/pull%20requests-273-8957e5?logo=github&logoColor=white" alt="273 pull requests">
+  <img src="https://img.shields.io/badge/commits-1.8k-2ea043?logo=git&logoColor=white" alt="1806 commits">
+  <img src="https://img.shields.io/badge/pull%20requests-285-8957e5?logo=github&logoColor=white" alt="285 pull requests">
 </p>
 <!-- stats:end -->
 
@@ -61,9 +61,9 @@ Search any player or clan to see their ranked history, or watch who's queueing r
 ## 🕒 Recent activity
 
 <!-- activity:start -->
-- [brawltome#378](https://github.com/NickTacke/brawltome/pull/378) chore(database): remove the v2 drizzle schema and its migrations <sub>4 Nov</sub>
-- [brawltome#377](https://github.com/NickTacke/brawltome/pull/377) docs: describe the CI-gated deploy flow <sub>4 Nov</sub>
-- [brawltome#376](https://github.com/NickTacke/brawltome/pull/376) ci: deploy CI-built images only after every check passes <sub>4 Nov</sub>
-- [brawltome#375](https://github.com/NickTacke/brawltome/pull/375) refactor(accounts): stop reading and writing the V2 auth tables <sub>3 Nov</sub>
-- [brawltome#374](https://github.com/NickTacke/brawltome/pull/374) feat(observability): ping healthchecks.io from the alert relay <sub>3 Nov</sub>
+- [brawltome#391](https://github.com/NickTacke/brawltome/pull/391) docs: describe the module layout and how modules plug in <sub>4 Nov</sub>
+- [brawltome#392](https://github.com/NickTacke/brawltome/pull/392) fix(foundation): close the gaps a review of the foundation work found <sub>4 Nov</sub>
+- [brawltome#389](https://github.com/NickTacke/brawltome/pull/389) feat(architecture): flag sql that reaches into another module's schema <sub>4 Nov</sub>
+- [brawltome#390](https://github.com/NickTacke/brawltome/pull/390) feat(api): serve oRPC next to tRPC, starting with status <sub>4 Nov</sub>
+- [brawltome#387](https://github.com/NickTacke/brawltome/pull/387) refactor(modules): share one database client per process <sub>4 Nov</sub>
 <!-- activity:end -->
