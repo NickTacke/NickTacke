@@ -6,7 +6,7 @@ I also like taking undocumented things apart, like game replay formats, bytecode
 
 <!-- stats:start -->
 <p>
-  <img src="https://img.shields.io/badge/npm%20downloads-688%2Fmonth-CB3837?logo=npm&logoColor=white" alt="688 npm downloads a month">
+  <img src="https://img.shields.io/badge/npm%20downloads-205%2Fmonth-CB3837?logo=npm&logoColor=white" alt="205 npm downloads a month">
   <img src="https://img.shields.io/badge/stars-32-e3b341?logo=github&logoColor=white" alt="32 stars">
   <img src="https://img.shields.io/badge/commits-1.8k-2ea043?logo=git&logoColor=white" alt="1806 commits">
   <img src="https://img.shields.io/badge/pull%20requests-285-8957e5?logo=github&logoColor=white" alt="285 pull requests">
