@@ -6,10 +6,10 @@ I also like taking undocumented things apart, like game replay formats, bytecode
 
 <!-- stats:start -->
 <p>
-  <img src="https://img.shields.io/badge/npm%20downloads-205%2Fmonth-CB3837?logo=npm&logoColor=white" alt="205 npm downloads a month">
+  <img src="https://img.shields.io/badge/npm%20downloads-206%2Fmonth-CB3837?logo=npm&logoColor=white" alt="206 npm downloads a month">
   <img src="https://img.shields.io/badge/stars-32-e3b341?logo=github&logoColor=white" alt="32 stars">
-  <img src="https://img.shields.io/badge/commits-1.8k-2ea043?logo=git&logoColor=white" alt="1806 commits">
-  <img src="https://img.shields.io/badge/pull%20requests-285-8957e5?logo=github&logoColor=white" alt="285 pull requests">
+  <img src="https://img.shields.io/badge/commits-1.8k-2ea043?logo=git&logoColor=white" alt="1832 commits">
+  <img src="https://img.shields.io/badge/pull%20requests-311-8957e5?logo=github&logoColor=white" alt="311 pull requests">
 </p>
 <!-- stats:end -->
 
@@ -61,9 +61,9 @@ Search any player or clan to see their ranked history, or watch who's queueing r
 ## 🕒 Recent activity
 
 <!-- activity:start -->
-- [brawltome#391](https://github.com/NickTacke/brawltome/pull/391) docs: describe the module layout and how modules plug in <sub>4 Nov</sub>
-- [brawltome#392](https://github.com/NickTacke/brawltome/pull/392) fix(foundation): close the gaps a review of the foundation work found <sub>4 Nov</sub>
-- [brawltome#389](https://github.com/NickTacke/brawltome/pull/389) feat(architecture): flag sql that reaches into another module's schema <sub>4 Nov</sub>
-- [brawltome#390](https://github.com/NickTacke/brawltome/pull/390) feat(api): serve oRPC next to tRPC, starting with status <sub>4 Nov</sub>
-- [brawltome#387](https://github.com/NickTacke/brawltome/pull/387) refactor(modules): share one database client per process <sub>4 Nov</sub>
+- [brawltome#418](https://github.com/NickTacke/brawltome/pull/418) test(api): pin queue behaviour and measure claim latency <sub>8 Nov</sub>
+- [brawltome#417](https://github.com/NickTacke/brawltome/pull/417) Tighten the clan pattern before the next module copies it <sub>8 Nov</sub>
+- [brawltome#416](https://github.com/NickTacke/brawltome/pull/416) Describe what the clan module owns <sub>8 Nov</sub>
+- [brawltome#415](https://github.com/NickTacke/brawltome/pull/415) Let modules contribute oRPC procedures; serve clan reads over oRPC <sub>8 Nov</sub>
+- [brawltome#414](https://github.com/NickTacke/brawltome/pull/414) Move clan onto db/ and domain/ with Drizzle <sub>8 Nov</sub>
 <!-- activity:end -->
