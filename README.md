@@ -6,10 +6,10 @@ I also like taking undocumented things apart, like game replay formats, bytecode
 
 <!-- stats:start -->
 <p>
-  <img src="https://img.shields.io/badge/npm%20downloads-206%2Fmonth-CB3837?logo=npm&logoColor=white" alt="206 npm downloads a month">
+  <img src="https://img.shields.io/badge/npm%20downloads-212%2Fmonth-CB3837?logo=npm&logoColor=white" alt="212 npm downloads a month">
   <img src="https://img.shields.io/badge/stars-32-e3b341?logo=github&logoColor=white" alt="32 stars">
-  <img src="https://img.shields.io/badge/commits-1.8k-2ea043?logo=git&logoColor=white" alt="1832 commits">
-  <img src="https://img.shields.io/badge/pull%20requests-311-8957e5?logo=github&logoColor=white" alt="311 pull requests">
+  <img src="https://img.shields.io/badge/commits-1.9k-2ea043?logo=git&logoColor=white" alt="1858 commits">
+  <img src="https://img.shields.io/badge/pull%20requests-337-8957e5?logo=github&logoColor=white" alt="337 pull requests">
 </p>
 <!-- stats:end -->
 
@@ -61,9 +61,9 @@ Search any player or clan to see their ranked history, or watch who's queueing r
 ## 🕒 Recent activity
 
 <!-- activity:start -->
-- [brawltome#418](https://github.com/NickTacke/brawltome/pull/418) test(api): pin queue behaviour and measure claim latency <sub>8 Nov</sub>
-- [brawltome#417](https://github.com/NickTacke/brawltome/pull/417) Tighten the clan pattern before the next module copies it <sub>8 Nov</sub>
-- [brawltome#416](https://github.com/NickTacke/brawltome/pull/416) Describe what the clan module owns <sub>8 Nov</sub>
-- [brawltome#415](https://github.com/NickTacke/brawltome/pull/415) Let modules contribute oRPC procedures; serve clan reads over oRPC <sub>8 Nov</sub>
-- [brawltome#414](https://github.com/NickTacke/brawltome/pull/414) Move clan onto db/ and domain/ with Drizzle <sub>8 Nov</sub>
+- [brawltome#442](https://github.com/NickTacke/brawltome/pull/442) refactor(queue): rename the schema to queue <sub>9 Nov</sub>
+- [brawltome#444](https://github.com/NickTacke/brawltome/pull/444) feat(site): add ranked statistics to the guild page <sub>9 Nov</sub>
+- [brawltome#443](https://github.com/NickTacke/brawltome/pull/443) feat(site): add the guild page <sub>9 Nov</sub>
+- [brawltome#441](https://github.com/NickTacke/brawltome/pull/441) feat(clan): add the internal standing read <sub>9 Nov</sub>
+- [brawltome#440](https://github.com/NickTacke/brawltome/pull/440) feat(player): add the internal ranked summaries read <sub>9 Nov</sub>
 <!-- activity:end -->
