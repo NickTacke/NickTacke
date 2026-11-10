@@ -6,10 +6,10 @@ I also like taking undocumented things apart, like game replay formats, bytecode
 
 <!-- stats:start -->
 <p>
-  <img src="https://img.shields.io/badge/npm%20downloads-212%2Fmonth-CB3837?logo=npm&logoColor=white" alt="212 npm downloads a month">
+  <img src="https://img.shields.io/badge/npm%20downloads-240%2Fmonth-CB3837?logo=npm&logoColor=white" alt="240 npm downloads a month">
   <img src="https://img.shields.io/badge/stars-32-e3b341?logo=github&logoColor=white" alt="32 stars">
-  <img src="https://img.shields.io/badge/commits-1.9k-2ea043?logo=git&logoColor=white" alt="1858 commits">
-  <img src="https://img.shields.io/badge/pull%20requests-337-8957e5?logo=github&logoColor=white" alt="337 pull requests">
+  <img src="https://img.shields.io/badge/commits-1.9k-2ea043?logo=git&logoColor=white" alt="1899 commits">
+  <img src="https://img.shields.io/badge/pull%20requests-378-8957e5?logo=github&logoColor=white" alt="378 pull requests">
 </p>
 <!-- stats:end -->
 
@@ -61,9 +61,9 @@ Search any player or clan to see their ranked history, or watch who's queueing r
 ## 🕒 Recent activity
 
 <!-- activity:start -->
-- [brawltome#442](https://github.com/NickTacke/brawltome/pull/442) refactor(queue): rename the schema to queue <sub>9 Nov</sub>
-- [brawltome#444](https://github.com/NickTacke/brawltome/pull/444) feat(site): add ranked statistics to the guild page <sub>9 Nov</sub>
-- [brawltome#443](https://github.com/NickTacke/brawltome/pull/443) feat(site): add the guild page <sub>9 Nov</sub>
-- [brawltome#441](https://github.com/NickTacke/brawltome/pull/441) feat(clan): add the internal standing read <sub>9 Nov</sub>
-- [brawltome#440](https://github.com/NickTacke/brawltome/pull/440) feat(player): add the internal ranked summaries read <sub>9 Nov</sub>
+- [brawltome#484](https://github.com/NickTacke/brawltome/pull/484) feat(player): rank meta legends by share of games at 2200+ <sub>10 Nov</sub>
+- [brawltome#485](https://github.com/NickTacke/brawltome/pull/485) fix(site): keep the footer's privacy and terms links inside the app <sub>10 Nov</sub>
+- [brawltome#483](https://github.com/NickTacke/brawltome/pull/483) feat(infra): roll the site on deploy <sub>10 Nov</sub>
+- [brawltome#482](https://github.com/NickTacke/brawltome/pull/482) fix(site): keep rail links inside the app <sub>10 Nov</sub>
+- [brawltome#481](https://github.com/NickTacke/brawltome/pull/481) feat(infra): drain the site server before it stops <sub>10 Nov</sub>
 <!-- activity:end -->
