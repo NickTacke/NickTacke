@@ -40,7 +40,7 @@ A stats site for Brawlhalla, live at [brawltome.app](https://brawltome.app), tra
 
 Search any player or clan to see their ranked history, or watch who's queueing right now.
 
-<a href="https://brawltome.app"><img src="assets/brawltome-tour.gif" alt="Tour of BrawlTome: home, search, player page, guild page and live queue" width="100%"></a>
+<a href="https://brawltome.app"><img src="assets/brawltome-tour.webp" alt="Tour of BrawlTome: home, search, player page, guild page and live queue" width="100%"></a>
 
 | For players | Under the hood |
 | --- | --- |
