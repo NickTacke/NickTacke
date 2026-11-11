@@ -6,10 +6,10 @@ I also like taking undocumented things apart, like game replay formats, bytecode
 
 <!-- stats:start -->
 <p>
-  <img src="https://img.shields.io/badge/npm%20downloads-240%2Fmonth-CB3837?logo=npm&logoColor=white" alt="240 npm downloads a month">
+  <img src="https://img.shields.io/badge/npm%20downloads-242%2Fmonth-CB3837?logo=npm&logoColor=white" alt="242 npm downloads a month">
   <img src="https://img.shields.io/badge/stars-32-e3b341?logo=github&logoColor=white" alt="32 stars">
-  <img src="https://img.shields.io/badge/commits-1.9k-2ea043?logo=git&logoColor=white" alt="1899 commits">
-  <img src="https://img.shields.io/badge/pull%20requests-378-8957e5?logo=github&logoColor=white" alt="378 pull requests">
+  <img src="https://img.shields.io/badge/commits-1.9k-2ea043?logo=git&logoColor=white" alt="1909 commits">
+  <img src="https://img.shields.io/badge/pull%20requests-387-8957e5?logo=github&logoColor=white" alt="387 pull requests">
 </p>
 <!-- stats:end -->
 
@@ -61,9 +61,9 @@ Search any player or clan to see their ranked history, or watch who's queueing r
 ## 🕒 Recent activity
 
 <!-- activity:start -->
-- [brawltome#484](https://github.com/NickTacke/brawltome/pull/484) feat(player): rank meta legends by share of games at 2200+ <sub>10 Nov</sub>
-- [brawltome#485](https://github.com/NickTacke/brawltome/pull/485) fix(site): keep the footer's privacy and terms links inside the app <sub>10 Nov</sub>
-- [brawltome#483](https://github.com/NickTacke/brawltome/pull/483) feat(infra): roll the site on deploy <sub>10 Nov</sub>
-- [brawltome#482](https://github.com/NickTacke/brawltome/pull/482) fix(site): keep rail links inside the app <sub>10 Nov</sub>
-- [brawltome#481](https://github.com/NickTacke/brawltome/pull/481) feat(infra): drain the site server before it stops <sub>10 Nov</sub>
+- [brawltome#492](https://github.com/NickTacke/brawltome/pull/492) feat(site): magnify the site on screens wider than 1920 <sub>10 Nov</sub>
+- [brawltome#493](https://github.com/NickTacke/brawltome/pull/493) feat(site): show a player's 1v1 rank in their region and globally <sub>10 Nov</sub>
+- [brawltome#491](https://github.com/NickTacke/brawltome/pull/491) feat(site): report errors in the browser <sub>10 Nov</sub>
+- [brawltome#490](https://github.com/NickTacke/brawltome/pull/490) feat(site): report web vitals <sub>10 Nov</sub>
+- [brawltome#489](https://github.com/NickTacke/brawltome/pull/489) refactor(site): size the layout in rem instead of px <sub>10 Nov</sub>
 <!-- activity:end -->
