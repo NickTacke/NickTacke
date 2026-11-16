@@ -6,10 +6,10 @@ I also like taking undocumented things apart, like game replay formats, bytecode
 
 <!-- stats:start -->
 <p>
-  <img src="https://img.shields.io/badge/npm%20downloads-260%2Fmonth-CB3837?logo=npm&logoColor=white" alt="260 npm downloads a month">
+  <img src="https://img.shields.io/badge/npm%20downloads-254%2Fmonth-CB3837?logo=npm&logoColor=white" alt="254 npm downloads a month">
   <img src="https://img.shields.io/badge/stars-32-e3b341?logo=github&logoColor=white" alt="32 stars">
-  <img src="https://img.shields.io/badge/commits-1.9k-2ea043?logo=git&logoColor=white" alt="1922 commits">
-  <img src="https://img.shields.io/badge/pull%20requests-400-8957e5?logo=github&logoColor=white" alt="400 pull requests">
+  <img src="https://img.shields.io/badge/commits-1.9k-2ea043?logo=git&logoColor=white" alt="1933 commits">
+  <img src="https://img.shields.io/badge/pull%20requests-411-8957e5?logo=github&logoColor=white" alt="411 pull requests">
 </p>
 <!-- stats:end -->
 
@@ -61,9 +61,9 @@ Search any player or clan to see their ranked history, or watch who's queueing r
 ## 🕒 Recent activity
 
 <!-- activity:start -->
-- [brawltome#505](https://github.com/NickTacke/brawltome/pull/505) fix(site): show the upload form to operators without a steam link <sub>14 Nov</sub>
-- [brawltome#506](https://github.com/NickTacke/brawltome/pull/506) fix(replay-worker): start a replay's timeout when the game gets it <sub>14 Nov</sub>
-- [brawltome#504](https://github.com/NickTacke/brawltome/pull/504) fix(replays): refuse oversized uploads before reading them <sub>14 Nov</sub>
-- [brawltome#503](https://github.com/NickTacke/brawltome/pull/503) fix(replays): start from the first page on a malformed cursor <sub>14 Nov</sub>
-- [brawltome#502](https://github.com/NickTacke/brawltome/pull/502) fix(replays): keep the replay files of patches the worker still plays <sub>14 Nov</sub>
+- [brawltome#518](https://github.com/NickTacke/brawltome/pull/518) docs(api): describe the desktop api <sub>16 Nov</sub>
+- [brawltome#517](https://github.com/NickTacke/brawltome/pull/517) feat(infra): set the minimum desktop app version <sub>16 Nov</sub>
+- [brawltome#516](https://github.com/NickTacke/brawltome/pull/516) feat(api): answer desktop lobbies from stored data <sub>16 Nov</sub>
+- [brawltome#515](https://github.com/NickTacke/brawltome/pull/515) feat(api): build desktop lobby cards from stored data <sub>16 Nov</sub>
+- [brawltome#514](https://github.com/NickTacke/brawltome/pull/514) feat(api): add the desktop version gate <sub>16 Nov</sub>
 <!-- activity:end -->
