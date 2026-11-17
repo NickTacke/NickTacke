@@ -6,10 +6,10 @@ I also like taking undocumented things apart, like game replay formats, bytecode
 
 <!-- stats:start -->
 <p>
-  <img src="https://img.shields.io/badge/npm%20downloads-254%2Fmonth-CB3837?logo=npm&logoColor=white" alt="254 npm downloads a month">
+  <img src="https://img.shields.io/badge/npm%20downloads-988%2Fmonth-CB3837?logo=npm&logoColor=white" alt="988 npm downloads a month">
   <img src="https://img.shields.io/badge/stars-32-e3b341?logo=github&logoColor=white" alt="32 stars">
-  <img src="https://img.shields.io/badge/commits-1.9k-2ea043?logo=git&logoColor=white" alt="1933 commits">
-  <img src="https://img.shields.io/badge/pull%20requests-411-8957e5?logo=github&logoColor=white" alt="411 pull requests">
+  <img src="https://img.shields.io/badge/commits-1.9k-2ea043?logo=git&logoColor=white" alt="1942 commits">
+  <img src="https://img.shields.io/badge/pull%20requests-428-8957e5?logo=github&logoColor=white" alt="428 pull requests">
 </p>
 <!-- stats:end -->
 
@@ -61,9 +61,9 @@ Search any player or clan to see their ranked history, or watch who's queueing r
 ## 🕒 Recent activity
 
 <!-- activity:start -->
-- [brawltome#518](https://github.com/NickTacke/brawltome/pull/518) docs(api): describe the desktop api <sub>16 Nov</sub>
-- [brawltome#517](https://github.com/NickTacke/brawltome/pull/517) feat(infra): set the minimum desktop app version <sub>16 Nov</sub>
-- [brawltome#516](https://github.com/NickTacke/brawltome/pull/516) feat(api): answer desktop lobbies from stored data <sub>16 Nov</sub>
-- [brawltome#515](https://github.com/NickTacke/brawltome/pull/515) feat(api): build desktop lobby cards from stored data <sub>16 Nov</sub>
-- [brawltome#514](https://github.com/NickTacke/brawltome/pull/514) feat(api): add the desktop version gate <sub>16 Nov</sub>
+- [brawltome#534](https://github.com/NickTacke/brawltome/pull/534) feat(replays): store and find each map's platform art <sub>16 Nov</sub>
+- [brawltome#533](https://github.com/NickTacke/brawltome/pull/533) feat(site): pick the review page and serve the playback timeline <sub>16 Nov</sub>
+- [brawltome#531](https://github.com/NickTacke/brawltome/pull/531) feat(replays): serve a match's page data <sub>16 Nov</sub>
+- [brawltome#532](https://github.com/NickTacke/brawltome/pull/532) fix(replays): store stock matches whose lines have no score <sub>16 Nov</sub>
+- [brawltome#528](https://github.com/NickTacke/brawltome/pull/528) feat(replay-worker): export each match's art <sub>16 Nov</sub>
 <!-- activity:end -->
