@@ -6,10 +6,10 @@ I also like taking undocumented things apart, like game replay formats, bytecode
 
 <!-- stats:start -->
 <p>
-  <img src="https://img.shields.io/badge/npm%20downloads-988%2Fmonth-CB3837?logo=npm&logoColor=white" alt="988 npm downloads a month">
+  <img src="https://img.shields.io/badge/npm%20downloads-1.1k%2Fmonth-CB3837?logo=npm&logoColor=white" alt="1148 npm downloads a month">
   <img src="https://img.shields.io/badge/stars-32-e3b341?logo=github&logoColor=white" alt="32 stars">
-  <img src="https://img.shields.io/badge/commits-1.9k-2ea043?logo=git&logoColor=white" alt="1942 commits">
-  <img src="https://img.shields.io/badge/pull%20requests-428-8957e5?logo=github&logoColor=white" alt="428 pull requests">
+  <img src="https://img.shields.io/badge/commits-2k-2ea043?logo=git&logoColor=white" alt="1957 commits">
+  <img src="https://img.shields.io/badge/pull%20requests-435-8957e5?logo=github&logoColor=white" alt="435 pull requests">
 </p>
 <!-- stats:end -->
 
@@ -61,9 +61,9 @@ Search any player or clan to see their ranked history, or watch who's queueing r
 ## 🕒 Recent activity
 
 <!-- activity:start -->
-- [brawltome#534](https://github.com/NickTacke/brawltome/pull/534) feat(replays): store and find each map's platform art <sub>16 Nov</sub>
-- [brawltome#533](https://github.com/NickTacke/brawltome/pull/533) feat(site): pick the review page and serve the playback timeline <sub>16 Nov</sub>
-- [brawltome#531](https://github.com/NickTacke/brawltome/pull/531) feat(replays): serve a match's page data <sub>16 Nov</sub>
-- [brawltome#532](https://github.com/NickTacke/brawltome/pull/532) fix(replays): store stock matches whose lines have no score <sub>16 Nov</sub>
-- [brawltome#528](https://github.com/NickTacke/brawltome/pull/528) feat(replay-worker): export each match's art <sub>16 Nov</sub>
+- [brawltome#543](https://github.com/NickTacke/brawltome/pull/543) feat(desktop): build the match cards from the game's memory first <sub>18 Nov</sub>
+- [brawltome#541](https://github.com/NickTacke/brawltome/pull/541) feat(desktop): show a status card when the game starts <sub>18 Nov</sub>
+- [brawltome#542](https://github.com/NickTacke/brawltome/pull/542) fix(desktop): read team values only after a 2v2 <sub>18 Nov</sub>
+- [brawltome#535](https://github.com/NickTacke/brawltome/pull/535) feat(site): rebuild the match page for stock matches <sub>18 Nov</sub>
+- [brawltome#530](https://github.com/NickTacke/brawltome/pull/530) feat(desktop): show the post-match card after a ranked match <sub>18 Nov</sub>
 <!-- activity:end -->
