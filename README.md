@@ -6,10 +6,10 @@ I also like taking undocumented things apart, like game replay formats, bytecode
 
 <!-- stats:start -->
 <p>
-  <img src="https://img.shields.io/badge/npm%20downloads-1.1k%2Fmonth-CB3837?logo=npm&logoColor=white" alt="1148 npm downloads a month">
+  <img src="https://img.shields.io/badge/npm%20downloads-1.1k%2Fmonth-CB3837?logo=npm&logoColor=white" alt="1150 npm downloads a month">
   <img src="https://img.shields.io/badge/stars-32-e3b341?logo=github&logoColor=white" alt="32 stars">
-  <img src="https://img.shields.io/badge/commits-2k-2ea043?logo=git&logoColor=white" alt="1957 commits">
-  <img src="https://img.shields.io/badge/pull%20requests-435-8957e5?logo=github&logoColor=white" alt="435 pull requests">
+  <img src="https://img.shields.io/badge/commits-2k-2ea043?logo=git&logoColor=white" alt="1962 commits">
+  <img src="https://img.shields.io/badge/pull%20requests-441-8957e5?logo=github&logoColor=white" alt="441 pull requests">
 </p>
 <!-- stats:end -->
 
@@ -61,9 +61,9 @@ Search any player or clan to see their ranked history, or watch who's queueing r
 ## 🕒 Recent activity
 
 <!-- activity:start -->
-- [brawltome#543](https://github.com/NickTacke/brawltome/pull/543) feat(desktop): build the match cards from the game's memory first <sub>18 Nov</sub>
-- [brawltome#541](https://github.com/NickTacke/brawltome/pull/541) feat(desktop): show a status card when the game starts <sub>18 Nov</sub>
-- [brawltome#542](https://github.com/NickTacke/brawltome/pull/542) fix(desktop): read team values only after a 2v2 <sub>18 Nov</sub>
-- [brawltome#535](https://github.com/NickTacke/brawltome/pull/535) feat(site): rebuild the match page for stock matches <sub>18 Nov</sub>
-- [brawltome#530](https://github.com/NickTacke/brawltome/pull/530) feat(desktop): show the post-match card after a ranked match <sub>18 Nov</sub>
+- [brawltome#548](https://github.com/NickTacke/brawltome/pull/548) ci(desktop): publish beta tags as pre-releases <sub>19 Nov</sub>
+- [brawltome#547](https://github.com/NickTacke/brawltome/pull/547) build(desktop): pin detection with the closing game fix <sub>19 Nov</sub>
+- [brawltome#545](https://github.com/NickTacke/brawltome/pull/545) fix(desktop): open profiles from the name on every card <sub>19 Nov</sub>
+- [brawltome#546](https://github.com/NickTacke/brawltome/pull/546) feat(replay-player): read BHA3 animation packs <sub>19 Nov</sub>
+- [brawltome#544](https://github.com/NickTacke/brawltome/pull/544) Rebuild the matches page around your matches <sub>19 Nov</sub>
 <!-- activity:end -->
