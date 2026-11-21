@@ -6,10 +6,10 @@ I also like taking undocumented things apart, like game replay formats, bytecode
 
 <!-- stats:start -->
 <p>
-  <img src="https://img.shields.io/badge/npm%20downloads-1.1k%2Fmonth-CB3837?logo=npm&logoColor=white" alt="1150 npm downloads a month">
+  <img src="https://img.shields.io/badge/npm%20downloads-1.2k%2Fmonth-CB3837?logo=npm&logoColor=white" alt="1161 npm downloads a month">
   <img src="https://img.shields.io/badge/stars-32-e3b341?logo=github&logoColor=white" alt="32 stars">
-  <img src="https://img.shields.io/badge/commits-2k-2ea043?logo=git&logoColor=white" alt="1962 commits">
-  <img src="https://img.shields.io/badge/pull%20requests-441-8957e5?logo=github&logoColor=white" alt="441 pull requests">
+  <img src="https://img.shields.io/badge/commits-2k-2ea043?logo=git&logoColor=white" alt="1967 commits">
+  <img src="https://img.shields.io/badge/pull%20requests-446-8957e5?logo=github&logoColor=white" alt="446 pull requests">
 </p>
 <!-- stats:end -->
 
@@ -61,9 +61,9 @@ Search any player or clan to see their ranked history, or watch who's queueing r
 ## 🕒 Recent activity
 
 <!-- activity:start -->
-- [brawltome#548](https://github.com/NickTacke/brawltome/pull/548) ci(desktop): publish beta tags as pre-releases <sub>19 Nov</sub>
-- [brawltome#547](https://github.com/NickTacke/brawltome/pull/547) build(desktop): pin detection with the closing game fix <sub>19 Nov</sub>
-- [brawltome#545](https://github.com/NickTacke/brawltome/pull/545) fix(desktop): open profiles from the name on every card <sub>19 Nov</sub>
-- [brawltome#546](https://github.com/NickTacke/brawltome/pull/546) feat(replay-player): read BHA3 animation packs <sub>19 Nov</sub>
-- [brawltome#544](https://github.com/NickTacke/brawltome/pull/544) Rebuild the matches page around your matches <sub>19 Nov</sub>
+- [brawltome#554](https://github.com/NickTacke/brawltome/pull/554) fix(bhapi): let on-demand calls pass background calls out of budget <sub>20 Nov</sub>
+- [brawltome#553](https://github.com/NickTacke/brawltome/pull/553) fix(bhapi): give v1 calls their own request queue <sub>20 Nov</sub>
+- [brawltome#552](https://github.com/NickTacke/brawltome/pull/552) fix(site): offer another try when steam verification stalls <sub>20 Nov</sub>
+- [brawltome#551](https://github.com/NickTacke/brawltome/pull/551) fix(player): treat an empty steam search result as no account <sub>20 Nov</sub>
+- [brawltome#550](https://github.com/NickTacke/brawltome/pull/550) fix(player): accept steam search results without a name <sub>20 Nov</sub>
 <!-- activity:end -->
