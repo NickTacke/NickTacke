@@ -6,10 +6,10 @@ I also like taking undocumented things apart, like game replay formats, bytecode
 
 <!-- stats:start -->
 <p>
-  <img src="https://img.shields.io/badge/npm%20downloads-1.2k%2Fmonth-CB3837?logo=npm&logoColor=white" alt="1177 npm downloads a month">
+  <img src="https://img.shields.io/badge/npm%20downloads-1.2k%2Fmonth-CB3837?logo=npm&logoColor=white" alt="1174 npm downloads a month">
   <img src="https://img.shields.io/badge/stars-32-e3b341?logo=github&logoColor=white" alt="32 stars">
-  <img src="https://img.shields.io/badge/commits-2k-2ea043?logo=git&logoColor=white" alt="1968 commits">
-  <img src="https://img.shields.io/badge/pull%20requests-447-8957e5?logo=github&logoColor=white" alt="447 pull requests">
+  <img src="https://img.shields.io/badge/commits-2k-2ea043?logo=git&logoColor=white" alt="1973 commits">
+  <img src="https://img.shields.io/badge/pull%20requests-457-8957e5?logo=github&logoColor=white" alt="457 pull requests">
 </p>
 <!-- stats:end -->
 
@@ -61,9 +61,9 @@ Search any player or clan to see their ranked history, or watch who's queueing r
 ## 🕒 Recent activity
 
 <!-- activity:start -->
-- [brawltome#555](https://github.com/NickTacke/brawltome/pull/555) fix(site): open search results on tap in safari <sub>21 Nov</sub>
-- [brawltome#554](https://github.com/NickTacke/brawltome/pull/554) fix(bhapi): let on-demand calls pass background calls out of budget <sub>20 Nov</sub>
-- [brawltome#553](https://github.com/NickTacke/brawltome/pull/553) fix(bhapi): give v1 calls their own request queue <sub>20 Nov</sub>
-- [brawltome#552](https://github.com/NickTacke/brawltome/pull/552) fix(site): offer another try when steam verification stalls <sub>20 Nov</sub>
-- [brawltome#551](https://github.com/NickTacke/brawltome/pull/551) fix(player): treat an empty steam search result as no account <sub>20 Nov</sub>
+- [brawltome#560](https://github.com/NickTacke/brawltome/pull/560) feat(site): let viewers fold the replay timeline <sub>23 Nov</sub>
+- [brawltome#558](https://github.com/NickTacke/brawltome/pull/558) feat(api): keep ranked profiles fresh for players above 1800 <sub>23 Nov</sub>
+- [brawltome#559](https://github.com/NickTacke/brawltome/pull/559) fix(ranking): publish each leaderboard region on its own <sub>23 Nov</sub>
+- [brawltome#557](https://github.com/NickTacke/brawltome/pull/557) fix(site): small consistency pass <sub>23 Nov</sub>
+- [brawltome#549](https://github.com/NickTacke/brawltome/pull/549) ci(desktop): name the repository when publishing a release <sub>22 Nov</sub>
 <!-- activity:end -->
