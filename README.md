@@ -6,10 +6,10 @@ I also like taking undocumented things apart, like game replay formats, bytecode
 
 <!-- stats:start -->
 <p>
-  <img src="https://img.shields.io/badge/npm%20downloads-1.2k%2Fmonth-CB3837?logo=npm&logoColor=white" alt="1174 npm downloads a month">
+  <img src="https://img.shields.io/badge/npm%20downloads-1.4k%2Fmonth-CB3837?logo=npm&logoColor=white" alt="1372 npm downloads a month">
   <img src="https://img.shields.io/badge/stars-32-e3b341?logo=github&logoColor=white" alt="32 stars">
-  <img src="https://img.shields.io/badge/commits-2k-2ea043?logo=git&logoColor=white" alt="1973 commits">
-  <img src="https://img.shields.io/badge/pull%20requests-457-8957e5?logo=github&logoColor=white" alt="457 pull requests">
+  <img src="https://img.shields.io/badge/commits-2k-2ea043?logo=git&logoColor=white" alt="2000 commits">
+  <img src="https://img.shields.io/badge/pull%20requests-480-8957e5?logo=github&logoColor=white" alt="480 pull requests">
 </p>
 <!-- stats:end -->
 
@@ -61,9 +61,9 @@ Search any player or clan to see their ranked history, or watch who's queueing r
 ## 🕒 Recent activity
 
 <!-- activity:start -->
-- [brawltome#560](https://github.com/NickTacke/brawltome/pull/560) feat(site): let viewers fold the replay timeline <sub>23 Nov</sub>
-- [brawltome#558](https://github.com/NickTacke/brawltome/pull/558) feat(api): keep ranked profiles fresh for players above 1800 <sub>23 Nov</sub>
-- [brawltome#559](https://github.com/NickTacke/brawltome/pull/559) fix(ranking): publish each leaderboard region on its own <sub>23 Nov</sub>
-- [brawltome#557](https://github.com/NickTacke/brawltome/pull/557) fix(site): small consistency pass <sub>23 Nov</sub>
-- [brawltome#549](https://github.com/NickTacke/brawltome/pull/549) ci(desktop): name the repository when publishing a release <sub>22 Nov</sub>
+- [brawltome#583](https://github.com/NickTacke/brawltome/pull/583) perf(site): cut the replay's work outside the canvas draw <sub>24 Nov</sub>
+- [brawltome#581](https://github.com/NickTacke/brawltome/pull/581) fix(replay-player): ease the camera between frames by their time <sub>24 Nov</sub>
+- [brawltome#588](https://github.com/NickTacke/brawltome/pull/588) feat(replay-player): compose weighted sheets in a WebGL2 shader <sub>24 Nov</sub>
+- [brawltome#587](https://github.com/NickTacke/brawltome/pull/587) feat(replay-player): mark a player whose art can't load as missing <sub>24 Nov</sub>
+- [brawltome#586](https://github.com/NickTacke/brawltome/pull/586) feat(replay-player): load only the set sheets a match draws <sub>24 Nov</sub>
 <!-- activity:end -->
